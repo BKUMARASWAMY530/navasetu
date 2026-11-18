@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Assist - Welfare Portal & Infrastructure Transparency",
+  "description": "An AI-powered, multilingual, voice-enabled portal providing welfare scheme recommendations, transparent public project tracking, a cost estimation audit tool, and an OCR document-processing assistant for rural and low-literacy citizens.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
